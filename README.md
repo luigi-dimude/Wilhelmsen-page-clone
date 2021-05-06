@@ -1,2 +1,2 @@
 # Wilhelmsen-page-clone
-Wilhelmsen page clone using HTML &amp; CSS only
+Wilhelmsen webpage clone using HTML &amp; CSS only
